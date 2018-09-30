@@ -1,0 +1,144 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   22.20.16.4799
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\alexx\OneDrive\Programming\Unity\ShootFaster\shootFaster1.4_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.070314 ms
+Song - Intro stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ERROR AudioManager: Sound not found in sounds list:Shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting game...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.373749 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1312.
+Total: 3.357541 ms (FindLiveObjects: 0.094085 ms CreateObjectMapping: 0.068193 ms MarkObjects: 3.155877 ms  DeleteObjects: 0.039019 ms)
+
+Wave 1 created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Enemies in next wave: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No heathtext found.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No heathtext found.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No heathtext found.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attempting to toggle store menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying Door: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Entering Store
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music changing from Battle to Shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attempting to toggle store menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying Door: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Leaving Store
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Song - ShopMusic stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music changing back to Battle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying Door: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Entering Store
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door didn't detect jack sht.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying Door: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Entering Store
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door didn't detect jack sht.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying Door: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Entering Store
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door didn't detect jack sht.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1fc0 -> priority: 1 
+  Thread -> id: 14b4 -> priority: 1 
