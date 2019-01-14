@@ -8,9 +8,8 @@ I did all the programming, art, and animations, and had a friend (Kyle
 Haining) write the music. The game was created using Unity (programming),
 Bosca Ceoil (music), and Piskel (art). The game recieved runner up.
 
-To run the game, double click "shootFaster1.4.exe". I know there's a bunch
-of files in there, but I'm too scared of breaking something if I move
-too many files, because Unity is oh so confusing. 
+To run the game, double click "shootFaster1.4.exe". There is also a demo video
+can watch, which is super short because github's 25mb file size limit.
 
 
 HOW TO PLAY
